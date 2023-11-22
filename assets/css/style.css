@@ -81,7 +81,7 @@ h6 {
 }
 
 #header.header-scrolled {
-  background: rgba(55, 64, 85, 0.9);
+  background: rgba(7, 11, 17);
   padding: 15px 0;
 }
 
@@ -101,6 +101,7 @@ h6 {
 
 #header .logo img {
   max-height: 100px;
+  border-radius: 50%;
 }
 
 /*--------------------------------------------------------------
@@ -322,7 +323,7 @@ h6 {
 #hero {
   width: 100%;
   height: 80vh;
-  background: url("../img/gold-bg-1.jpg") top center;
+  background: url("../img/lgt-logo.png") top center;
   background-size: cover;
   position: relative;
 }
